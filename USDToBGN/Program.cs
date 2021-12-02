@@ -6,7 +6,10 @@ namespace USDToBGN
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double usd = double.Parse(Console.ReadLine());
+            const double course = 1.79549;
+
+            Console.WriteLine(course * usd);
         }
     }
 }
