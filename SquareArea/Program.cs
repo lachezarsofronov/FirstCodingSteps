@@ -6,7 +6,7 @@ namespace SquareArea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helkojkl!");
+            Console.WriteLine("Hjkl!");
         }
     }
 }
