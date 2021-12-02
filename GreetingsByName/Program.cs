@@ -6,7 +6,11 @@ namespace GreetingsByName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // input var name
+            string name = Console.ReadLine();
+
+            //print formated string with var name;
+            Console.WriteLine($"Hello, {name}!");
         }
     }
 }

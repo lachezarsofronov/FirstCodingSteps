@@ -6,7 +6,16 @@ namespace SummerBooksToRead
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //input
+            int pages = int.Parse(Console.ReadLine());
+            double pagesCanReadPerHour = double.Parse(Console.ReadLine());
+            int daysMustRead = int.Parse(Console.ReadLine());
+
+            // calc total time needed to finish the book
+            double totalTime = (pages / pagesCanReadPerHour) / daysMustRead;
+
+            //output
+            Console.WriteLine(totalTime);
         }
     }
 }

@@ -6,7 +6,11 @@ namespace SquareArea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hjkl!");
+            //side*side= square area
+
+            int a = int.Parse(Console.ReadLine()); //side
+
+            Console.WriteLine(a * a); //area
         }
     }
 }
