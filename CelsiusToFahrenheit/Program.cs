@@ -6,7 +6,15 @@ namespace CelsiusToFahrenheit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //input
+            double Celsius = Double.Parse(Console.ReadLine());
+
+            //transorm C to F
+
+            double Fahrenheit = (Celsius * 1.8) + 32;
+
+            //output
+            Console.WriteLine($"{Fahrenheit:F2}");
         }
     }
 }

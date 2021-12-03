@@ -1,79 +1,81 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{E06CDC6C-3693-47CB-B703-AB5898A351DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{E06CDC6C-3693-47CB-B703-AB5898A351DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumsFromOneToTen", "NumsFromOneToTen\NumsFromOneToTen.csproj", "{6B980FFB-F65E-402B-9573-FF6388015C59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumsFromOneToTen", "NumsFromOneToTen\NumsFromOneToTen.csproj", "{6B980FFB-F65E-402B-9573-FF6388015C59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareArea", "SquareArea\SquareArea.csproj", "{17CBE13D-B3E3-40B6-B47E-62571CB96B82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareArea", "SquareArea\SquareArea.csproj", "{17CBE13D-B3E3-40B6-B47E-62571CB96B82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchToSm", "InchToSm\InchToSm.csproj", "{F8D93679-4623-485B-9E59-0B3F992D7903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchToSm", "InchToSm\InchToSm.csproj", "{F8D93679-4623-485B-9E59-0B3F992D7903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingsByName", "GreetingsByName\GreetingsByName.csproj", "{E9F405E7-D53D-4D4F-A877-69FF23AC6310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingsByName", "GreetingsByName\GreetingsByName.csproj", "{E9F405E7-D53D-4D4F-A877-69FF23AC6310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateTextAndNums", "ConcatenateTextAndNums\ConcatenateTextAndNums.csproj", "{CDB378CB-B8CD-4076-A786-B5CC30084083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenateTextAndNums", "ConcatenateTextAndNums\ConcatenateTextAndNums.csproj", "{CDB378CB-B8CD-4076-A786-B5CC30084083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectsMaking", "ProjectsMaking\ProjectsMaking.csproj", "{47C4688D-FD53-43D1-A0D3-86CF1631BA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectsMaking", "ProjectsMaking\ProjectsMaking.csproj", "{47C4688D-FD53-43D1-A0D3-86CF1631BA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooStore", "ZooStore\ZooStore.csproj", "{9533C4E2-25EB-4762-87F9-C6FBCA0F9CE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZooStore", "ZooStore\ZooStore.csproj", "{9533C4E2-25EB-4762-87F9-C6FBCA0F9CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YardGreening", "YardGreening\YardGreening.csproj", "{C40CE1E3-5C2E-4331-A0F8-6517BD186BF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YardGreening", "YardGreening\YardGreening.csproj", "{C40CE1E3-5C2E-4331-A0F8-6517BD186BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidArea", "TrapezoidArea\TrapezoidArea.csproj", "{4AB05FF6-DD26-4A36-8EB4-5223B0A9D9FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrapezoidArea", "TrapezoidArea\TrapezoidArea.csproj", "{4AB05FF6-DD26-4A36-8EB4-5223B0A9D9FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleArea", "TriangleArea\TriangleArea.csproj", "{99D25CD3-D974-4BE9-BC21-13DCC278ECA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriangleArea", "TriangleArea\TriangleArea.csproj", "{99D25CD3-D974-4BE9-BC21-13DCC278ECA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToFahrenheit", "CelsiusToFahrenheit\CelsiusToFahrenheit.csproj", "{89B67BFD-5B92-422C-835F-450CA8BCB51F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CelsiusToFahrenheit", "CelsiusToFahrenheit\CelsiusToFahrenheit.csproj", "{89B67BFD-5B92-422C-835F-450CA8BCB51F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyHall", "StudyHall\StudyHall.csproj", "{291E5F6C-11B3-4621-9CEA-0148555FEEDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyHall", "StudyHall\StudyHall.csproj", "{291E5F6C-11B3-4621-9CEA-0148555FEEDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishMarket", "FishMarket\FishMarket.csproj", "{CE2D08EE-031A-4A21-A2C7-588E5686D6AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishMarket", "FishMarket\FishMarket.csproj", "{CE2D08EE-031A-4A21-A2C7-588E5686D6AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HousePainting", "HousePainting\HousePainting.csproj", "{4A55F969-A5C5-4014-884A-BA4991CDE056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousePainting", "HousePainting\HousePainting.csproj", "{4A55F969-A5C5-4014-884A-BA4991CDE056}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeterAndArea", "CirclePerimeterAndArea\CirclePerimeterAndArea.csproj", "{6029BCE9-6252-42E0-8D5D-59445D5D2995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CirclePerimeterAndArea", "CirclePerimeterAndArea\CirclePerimeterAndArea.csproj", "{6029BCE9-6252-42E0-8D5D-59445D5D2995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast", "WeatherForecast\WeatherForecast.csproj", "{DF0DE6C6-D776-4D00-A4CE-CDBADAC3A82F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecast", "WeatherForecast\WeatherForecast.csproj", "{DF0DE6C6-D776-4D00-A4CE-CDBADAC3A82F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastPartTwo", "WeatherForecastPartTwo\WeatherForecastPartTwo.csproj", "{37F3CDD9-6793-45B9-AD01-BF9F5BD22775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastPartTwo", "WeatherForecastPartTwo\WeatherForecastPartTwo.csproj", "{37F3CDD9-6793-45B9-AD01-BF9F5BD22775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDToBGN", "USDToBGN\USDToBGN.csproj", "{A2048BEE-5A5B-4B42-864F-6AF90ABE4CBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USDToBGN", "USDToBGN\USDToBGN.csproj", "{A2048BEE-5A5B-4B42-864F-6AF90ABE4CBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegree", "RadiansToDegree\RadiansToDegree.csproj", "{BED99C40-CC14-40D7-803A-253DA7803501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiansToDegree", "RadiansToDegree\RadiansToDegree.csproj", "{BED99C40-CC14-40D7-803A-253DA7803501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{8991A837-97E6-48D4-8B68-67BEA4578B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{8991A837-97E6-48D4-8B68-67BEA4578B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerBooksToRead", "SummerBooksToRead\SummerBooksToRead.csproj", "{CA145153-78F1-49ED-B6DD-F149E55D2CB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummerBooksToRead", "SummerBooksToRead\SummerBooksToRead.csproj", "{CA145153-78F1-49ED-B6DD-F149E55D2CB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayParty", "BirthdayParty\BirthdayParty.csproj", "{5647075F-0683-46F9-983B-C63BC4FCBDBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayParty", "BirthdayParty\BirthdayParty.csproj", "{5647075F-0683-46F9-983B-C63BC4FCBDBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharityCampaign", "CharityCampaign\CharityCampaign.csproj", "{E73424F0-9FD7-4227-A4A3-E4920575F0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharityCampaign", "CharityCampaign\CharityCampaign.csproj", "{E73424F0-9FD7-4227-A4A3-E4920575F0DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitMarket", "FruitMarket\FruitMarket.csproj", "{63179D64-3359-4061-844A-DA054378BA47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitMarket", "FruitMarket\FruitMarket.csproj", "{63179D64-3359-4061-844A-DA054378BA47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aquarium", "Aquarium\Aquarium.csproj", "{7CDB8044-15D2-425D-8C49-00BDD3176522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aquarium", "Aquarium\Aquarium.csproj", "{7CDB8044-15D2-425D-8C49-00BDD3176522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscarsCeremony", "OscarsCeremony\OscarsCeremony.csproj", "{C46D69EC-2638-46AB-8CD2-6EBF7E7D48A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OscarsCeremony", "OscarsCeremony\OscarsCeremony.csproj", "{C46D69EC-2638-46AB-8CD2-6EBF7E7D48A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterLunch", "EasterLunch\EasterLunch.csproj", "{8637C582-35D1-4DFD-B4C0-848B94952E66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasterLunch", "EasterLunch\EasterLunch.csproj", "{8637C582-35D1-4DFD-B4C0-848B94952E66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterBakery", "EasterBakery\EasterBakery.csproj", "{B56920B5-BCB6-4F15-97BF-019EDF0AFE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasterBakery", "EasterBakery\EasterBakery.csproj", "{B56920B5-BCB6-4F15-97BF-019EDF0AFE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeBureau", "ChangeBureau\ChangeBureau.csproj", "{6B0C97DD-183F-4DBC-8D66-6D67479BC79A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeBureau", "ChangeBureau\ChangeBureau.csproj", "{6B0C97DD-183F-4DBC-8D66-6D67479BC79A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgencyProfit", "AgencyProfit\AgencyProfit.csproj", "{20C6F942-1CFC-464E-A807-578EBBB26AD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgencyProfit", "AgencyProfit\AgencyProfit.csproj", "{20C6F942-1CFC-464E-A807-578EBBB26AD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisEquipment", "TennisEquipment\TennisEquipment.csproj", "{42E2A3DA-76A7-4D74-BBEC-9CB064B4DC99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TennisEquipment", "TennisEquipment\TennisEquipment.csproj", "{42E2A3DA-76A7-4D74-BBEC-9CB064B4DC99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballEquipment", "BasketballEquipment\BasketballEquipment.csproj", "{BF1064CC-3901-4BC6-B2BE-9C3E4DC4EC11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasketballEquipment", "BasketballEquipment\BasketballEquipment.csproj", "{BF1064CC-3901-4BC6-B2BE-9C3E4DC4EC11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesCalculator", "SeriesCalculator\SeriesCalculator.csproj", "{CE64C2C3-091B-4EB1-993A-E1E0F6FB0636}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeriesCalculator", "SeriesCalculator\SeriesCalculator.csproj", "{CE64C2C3-091B-4EB1-993A-E1E0F6FB0636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieProfit", "MovieProfit\MovieProfit.csproj", "{744F3FA7-3159-4331-9516-FF585B970E2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieProfit", "MovieProfit\MovieProfit.csproj", "{744F3FA7-3159-4331-9516-FF585B970E2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoolDay", "PoolDay\PoolDay.csproj", "{EA5F49FD-4305-428C-862B-B30E2C92BECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoolDay", "PoolDay\PoolDay.csproj", "{EA5F49FD-4305-428C-862B-B30E2C92BECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitTradeMarket", "FruitTradeMarket\FruitTradeMarket.csproj", "{CD61C4FB-2956-4935-A157-A2A515DDD0DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{EA5F49FD-4305-428C-862B-B30E2C92BECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA5F49FD-4305-428C-862B-B30E2C92BECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA5F49FD-4305-428C-862B-B30E2C92BECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD61C4FB-2956-4935-A157-A2A515DDD0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD61C4FB-2956-4935-A157-A2A515DDD0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD61C4FB-2956-4935-A157-A2A515DDD0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD61C4FB-2956-4935-A157-A2A515DDD0DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

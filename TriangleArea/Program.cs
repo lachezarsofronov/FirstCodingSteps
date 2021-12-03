@@ -6,7 +6,16 @@ namespace TriangleArea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //input
+            double a = double.Parse(Console.ReadLine());
+            double h = double.Parse(Console.ReadLine());
+
+            // area = a * h / 2. 
+
+            double area = a * h / 2;
+
+            //output
+            Console.WriteLine($"{area:F2}");
         }
     }
 }

@@ -6,7 +6,18 @@ namespace WeatherForecast
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //input
+            String weather = Console.ReadLine();
+
+            //output with condition
+            if (weather == "sunny")
+            {
+                Console.WriteLine("It's warm outside!");
+            }
+            else
+            {
+                Console.WriteLine("It's cold outside!");
+            }
         }
     }
 }
